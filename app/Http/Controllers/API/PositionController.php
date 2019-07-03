@@ -9,7 +9,7 @@ use App\Models\Position;
 class PositionController extends Controller
 {
     /**
-     * Get a JWT via given credentials.
+     * Get items with table positions
      *
      * @return \Illuminate\Http\JsonResponse
      */
