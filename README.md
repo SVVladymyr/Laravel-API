@@ -7,6 +7,7 @@ characters). Please generate at least 1000 fake users.
 invalid requests.
 4. Host your solution on any hosting and send as the link. No need to attach domain,
 url with IP address like http://<IP> is enough.
+    
 Part 2 (optional)
 1. Create database structure first using MySQL Workbench (do not forget to commit
 MySQL Workbench project file to git) and generate migration files for Laravel from
